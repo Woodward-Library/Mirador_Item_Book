@@ -1,0 +1,327 @@
+{
+  "label": "WWI & WWII Posters",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "metadata": {},
+  "thumbnail": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038304.0000/full/80,100/0/default.jpg",
+  "attribution": "Images are provided for research and reference use only. Permission to publish, copy or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca",
+  "sequences": [
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038304/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Default",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "individuals",
+      "canvases": [
+        {
+                "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038304/canvas/p0",
+                "@type": "sc:Canvas",
+                "label": "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer",
+                "height": 4105,
+                "width": 2970,
+                "images": [
+                  {
+                    "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038304/annotation/p0000",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                      "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038304",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "height": 4105,
+                      "width": 2970,
+                      "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038304",
+                        "@profile": "http://iiif.io/api/image/2/level2.json",
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64,
+                          128,
+                          256,
+                          512,
+                          1024
+                        ]
+                      }
+                    },
+                    "on": "https://oc2-iiif.library.ubc.ca/cdm.wwposters.1-0038304/canvas/p0"
+                  }
+                ]
+              },
+        {
+                        "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038245/canvas/p0",
+                        "@type": "sc:Canvas",
+                        "label": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station",
+                        "height": 7823,
+                        "width": 5161,
+                        "images": [
+                          {
+                            "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038245/annotation/p0000",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                              "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038245",
+                              "@type": "dctypes:Image",
+                              "format": "image/jpeg",
+                              "height": 7823,
+                              "width": 5161,
+                              "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038245",
+                                "@profile": "http://iiif.io/api/image/2/level2.json",
+                                "scaleFactors": [
+                                  1,
+                                  2,
+                                  4,
+                                  8,
+                                  16,
+                                  32,
+                                  64,
+                                  128,
+                                  256,
+                                  512,
+                                  1024
+                                ]
+                              }
+                            },
+                            "on": "https://oc2-iiif.library.ubc.ca/cdm.wwposters.1-0038245/canvas/p0"
+                          }
+                        ]
+                      },
+        {
+                              "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038282/canvas/p0",
+                              "@type": "sc:Canvas",
+                              "label": "Help the work of reconstruction. Buy war savings stamps",
+                              "height": 4984,
+                              "width": 3671,
+                              "images": [
+                                {
+                                  "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038282/annotation/p0000",
+                                  "@type": "oa:Annotation",
+                                  "motivation": "sc:painting",
+                                  "resource": {
+                                    "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038282",
+                                    "@type": "dctypes:Image",
+                                    "format": "image/jpeg",
+                                    "height": 4984,
+                                    "width": 3671,
+                                    "service": {
+                                      "@context": "http://iiif.io/api/image/2/context.json",
+                                      "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038282",
+                                      "@profile": "http://iiif.io/api/image/2/level2.json",
+                                      "scaleFactors": [
+                                        1,
+                                        2,
+                                        4,
+                                        8,
+                                        16,
+                                        32,
+                                        64,
+                                        128,
+                                        256,
+                                        512,
+                                        1024
+                                      ]
+                                    }
+                                  },
+                                  "on": "https://oc2-iiif.library.ubc.ca/cdm.wwposters.1-0038282/canvas/p0"
+                                }
+                              ]
+                            },
+        {
+                                      "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038291/canvas/p0",
+                                      "@type": "sc:Canvas",
+                                      "label": "You can help to build me a gun. You can learn quickly and you will be working to win. Ask at any employment exchange for advice and full details. A job is waiting for you",
+                                      "height": 3086,
+                                      "width": 2126,
+                                      "images": [
+                                        {
+                                          "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038291/annotation/p0000",
+                                          "@type": "oa:Annotation",
+                                          "motivation": "sc:painting",
+                                          "resource": {
+                                            "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038291",
+                                            "@type": "dctypes:Image",
+                                            "format": "image/jpeg",
+                                            "height": 3086,
+                                            "width": 2126,
+                                            "service": {
+                                              "@context": "http://iiif.io/api/image/2/context.json",
+                                              "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038291",
+                                              "@profile": "http://iiif.io/api/image/2/level2.json",
+                                              "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32,
+                                                64,
+                                                128,
+                                                256,
+                                                512,
+                                                1024
+                                              ]
+                                            }
+                                          },
+                                          "on": "https://oc2-iiif.library.ubc.ca/cdm.wwposters.1-0038291/canvas/p0"
+                                        }
+                                      ]
+                                    },
+        {
+                                              "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038303/canvas/p0",
+                                              "@type": "sc:Canvas",
+                                              "label": "Oh please do Daddy. Buy me a victory bond",
+                                              "height": 7728,
+                                              "width": 5085,
+                                              "images": [
+                                                {
+                                                  "@id": "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038303/annotation/p0000",
+                                                  "@type": "oa:Annotation",
+                                                  "motivation": "sc:painting",
+                                                  "resource": {
+                                                    "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038303",
+                                                    "@type": "dctypes:Image",
+                                                    "format": "image/jpeg",
+                                                    "height": 7728,
+                                                    "width": 5085,
+                                                    "service": {
+                                                      "@context": "http://iiif.io/api/image/2/context.json",
+                                                      "@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038303",
+                                                      "@profile": "http://iiif.io/api/image/2/level2.json",
+                                                      "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32,
+                                                        64,
+                                                        128,
+                                                        256,
+                                                        512,
+                                                        1024
+                                                      ]
+                                                    }
+                                                  },
+                                                  "on": "https://oc2-iiif.library.ubc.ca/cdm.wwposters.1-0038303/canvas/p0"
+                                                }
+                                              ]
+                                            },
+        {
+                                                      "@id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038290/canvas/p0",
+                                                      "@type": "sc:Canvas",
+                                                      "label": "The Kitchen is the [key] to victory. Eat less bread",
+                                                      "height": 6352,
+                                                      "width": 4263,
+                                                      "images": [
+                                                        {
+                                                          "@id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038290/annotation/p0000",
+                                                          "@type": "oa:Annotation",
+                                                          "motivation": "sc:painting",
+                                                          "resource": {
+                                                            "@id": "https://iiif.library.ubc.ca/image/cdm.wwposters.1-0038290",
+                                                            "@type": "dctypes:Image",
+                                                            "format": "image/jpeg",
+                                                            "height": 6352,
+                                                            "width": 4263,
+                                                            "service": {
+                                                              "@context": "http://iiif.io/api/image/2/context.json",
+                                                              "@id": "https://iiif.library.ubc.ca/image/cdm.wwposters.1-0038290",
+                                                              "@profile": "http://iiif.io/api/image/2/level2.json",
+                                                              "scaleFactors": [
+                                                                1,
+                                                                2,
+                                                                4,
+                                                                8,
+                                                                16,
+                                                                32,
+                                                                64,
+                                                                128,
+                                                                256,
+                                                                512,
+                                                                1024
+                                                              ]
+                                                            }
+                                                          },
+                                                          "on": "https://iiif.library.ubc.ca/cdm.wwposters.1-0038290/canvas/p0"
+                                                        }
+                                                      ]
+                                                    }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/0",
+      "@type": "sc:Range",
+      "label": "Table of Contents",
+      "viewingHint": "top",
+      "ranges": [
+        "https://viewer-demo.library.ubc.ca/manifests/range/1",
+        "https://viewer-demo.library.ubc.ca/manifests/range/2",
+        "https://viewer-demo.library.ubc.ca/manifests/range/3",
+        "https://viewer-demo.library.ubc.ca/manifests/range/4",
+        "https://viewer-demo.library.ubc.ca/manifests/range/5",
+        "https://viewer-demo.library.ubc.ca/manifests/range/6"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/1",
+      "@type": "sc:Range",
+      "label": "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer",
+      "canvases": [
+        "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038304/canvas/p0"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/2",
+      "@type": "sc:Range",
+      "label": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station",
+      "canvases": [
+        "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038245/canvas/p0"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/3",
+      "@type": "sc:Range",
+      "label": "Help the work of reconstruction. Buy war savings stamps",
+      "canvases": [
+        "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038282/canvas/p0"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/4",
+      "@type": "sc:Range",
+      "label": "You can help to build me a gun. You can learn quickly and you will be working to win. Ask at any employment exchange for advice and full details. A job is waiting for you",
+      "canvases": [
+        "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038291/canvas/p0"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/5",
+      "@type": "sc:Range",
+      "label": "Oh please do Daddy. Buy me a victory bond",
+      "canvases": [
+        "https://oc2-iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038303/canvas/p0"
+      ]
+    },
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/range/6",
+      "@type": "sc:Range",
+      "label": "The Kitchen is the [key] to victory. Eat less bread",
+      "canvases": [
+        "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038290/canvas/p0"
+      ]
+    }
+  ],
+  "description": "Fifty nine&nbsp;posters, broadsides, and&nbsp;ephemera&nbsp;from World War I and II, published in Canada, Belgium,&nbsp; England, France, Germany, and the United States. The posters cover a&nbsp; variety of subjects including recruitment and enlisting, savings stamps,&nbsp; savings and victory bonds, women, agriculture, and munitions.&nbsp; They form part of the Rare Books and Special Collections Pamphlet Collection.",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://viewer-demo.library.ubc.ca/manifests/wwposters_manifest_ranges.json",
+  "@type": "sc:Manifest"
+}
