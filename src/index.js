@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://iiif.lib.harvard.edu/manifests/drs:48309543",
+      "loadedManifest": "https://iiif.lib.harvard.edu/manifests/drs:52964599",
       "canvasIndex": 2,
       sideBarOpen: false,
      view:'book',
